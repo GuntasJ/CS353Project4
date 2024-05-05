@@ -9,6 +9,9 @@ The setting of the game is that the player is trapped in a dungeon, and they are
 
 ### Locations
 
+A rudimentary diagram of the map is shown below
+<img width="540" alt="Screenshot 2024-05-05 at 6 26 32 PM" src="https://github.com/GuntasJ/CS353Project4/assets/90429329/c393a9e3-4084-482d-a0ec-fbb2902e9c6f">
+
 There are a total of 12 locations in the game. These locations are conected to one another, and they can be accessed by the four cardinal directions
 
 ### Inventory
