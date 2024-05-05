@@ -1,5 +1,8 @@
 # CS353Project4
 
+## Running the Game
+
+To run the game, download the rkt file and run it in Dr Racket. 
 
 ## Game Overview
 
